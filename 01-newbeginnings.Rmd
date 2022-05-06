@@ -7,3 +7,4 @@ At a minimum, we will discuss the following issues related to Information Litera
 - Threshold Concepts
 - Learning Objectives
 - Maybe some other stuff
+- Or not?
