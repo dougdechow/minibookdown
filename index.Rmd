@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Your Craft as a Teaching Librarian"
+author: "Douglas R. Dechow"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
