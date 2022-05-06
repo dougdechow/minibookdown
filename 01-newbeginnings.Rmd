@@ -6,3 +6,4 @@ At a minimum, we will discuss the following issues related to Information Litera
 - ACRL Framework
 - Threshold Concepts
 - Learning Objectives
+- Maybe some other stuff
